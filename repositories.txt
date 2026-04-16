@@ -8,3 +8,4 @@ dns-technologies/pgpack_dumper
 dns-technologies/dbhose_utils
 dns-technologies/dbhose_airflow
 dns-technologies/csvpack
+dns-technologies/dr_herriot
