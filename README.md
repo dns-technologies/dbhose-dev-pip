@@ -16,6 +16,7 @@
 *   [`base-dumper`](https://github.com/dns-technologies/base_dumper)
 *   [`native-dumper`](https://github.com/dns-technologies/native_dumper)
 *   [`pgpack-dumper`](https://github.com/dns-technologies/pgpack_dumper)
+*   [`dr-herriot`](https://github.com/dns-technologies/dr_herriot)
 *   [`dbhose-utils`](https://github.com/dns-technologies/dbhose_utils)
 *   [`dbhose-airflow`](https://github.com/dns-technologies/dbhose_airflow)
 
